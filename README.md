@@ -13,5 +13,5 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/uma-adhikary" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="uma-adhikary" height="30" width="30" /></a>
-<a href="https://instagram.com/being__uma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="being__uma" height="30" width="30" /></a>
+<a href="https://instagram.com/being__uma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="beinguma__" height="30" width="30" /></a>
 </p>
