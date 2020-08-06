@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umaad" alt="umaad" /> </p>
 
-- 👨‍💻 All of my projects are available at [adhikariuma.com.np](adhikariuma.com.np)
+- 👨‍💻 Visit my portfolio at [http://adhikariuma.com.np/](adhikariuma.com.np)
 
 - 📫 How to reach me **adhikaryuma26@gmail.com**
 
