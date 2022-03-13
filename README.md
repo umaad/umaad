@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **adhikaryuma26@gmail.com**
 
-<p align="left">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="30" height="30"/>
   <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="30" height="30"/> 
