@@ -21,6 +21,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umaad&layout=compact&hide=html" alt="umaad" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="microsoftsqlserver" width="30" height="30"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=umaad&show_icons=true" alt="umaad" />
+  </p>
 <p align="center">
 <a href="https://linkedin.com/in/uma-adhikary" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="uma-adhikary" height="30" width="30" /></a>
 <a href="https://instagram.com/being__uma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="beinguma__" height="30" width="30" /></a>
